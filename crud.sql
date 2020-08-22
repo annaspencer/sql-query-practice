@@ -1,0 +1,1 @@
+INSERT (name, price, can_be_returned) VALUE ('chair', 44.00, 'f')
